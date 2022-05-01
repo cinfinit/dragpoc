@@ -12,3 +12,4 @@ To run the project locally ,
 (this will run the application locally , by default it runs on PORT 3000 if open , else you might be prompted to run it on different PORT)
 4.Open localhost:PORT (what ever PORT number you got from previous step)
 5. Enjoy :)
+
